@@ -1,0 +1,13 @@
+body{
+  text-align:center;
+  background: linear-gradient(#eb348f,#34a2eb)
+}
+h1{
+  text-shadow:2px 2px #4a4d4f;
+ }
+img{
+  
+  border-radius:50%;
+  width:350px;
+  height:350px;
+}
